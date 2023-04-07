@@ -1,9 +1,9 @@
 # Hi, I'm Bambus! ヾ(•ω•`)
 ## I'm 13 years old, and I have a big dream. ☁️
 I'm learning web-development, more specifically:
--HTML, ###🧑‍💻
--CSS,  ###🧑‍💻
--JS.   ###🧑‍💻
+-HTML,🧑‍💻
+-CSS, 🧑‍💻
+-JS.  🧑‍💻
 I also know a tiny bit of *Python🐍*
 
 ---
@@ -14,7 +14,7 @@ I also know a tiny bit of *Python🐍*
 ---
 
 # I make videos on [Tiktok😟](https://tiktok.com/@bambus.png)
-
+# ALSO;
 I **SOMETIMES** post on [YouTube](https://www.youtube.com/@bammbus)
 
 ---
@@ -23,9 +23,9 @@ I live in 🇭🇷 **Croatia.** I also originate from 🇹🇲 Turkmenistan.
 I won't get deep into that.
 
 ```javascript
-const mom = Turkmenistan
-const dad = Croatia
-const Bambus = idiot
+const mom = Turkmenistan;
+const dad = Croatia;
+const Bambus = idiot;
 ```
 
 ---
