@@ -30,6 +30,15 @@ const Bambus = idiot;
 
 ---
 
+# Contact
+I have no idea why you'd need this. In case you do,
+My email is *me@bambus.lol*.
+**or**
+you can also contact me at
+*bambus@terrorist.lol*
+
+---
+
 # Conclusion
 
 So yeah, this is the end. I'm a 13 year old mixed kid who likes tech.
