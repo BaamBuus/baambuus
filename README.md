@@ -8,11 +8,6 @@ I also know a tiny bit of *Python🐍*
 
 ---
 
-# I have a [website!](https://bambus.lol) ^_^
-(i chose the .lol domain just cuz it was cheap 💀)
-
----
-
 # I make videos on [Tiktok😟](https://tiktok.com/@bambus.png)
 # ALSO;
 I **SOMETIMES** post on [YouTube](https://www.youtube.com/@bammbus)
@@ -36,6 +31,9 @@ My email is *me@bambus.lol*.
 **or**
 you can also contact me at
 *bambus@terrorist.lol*
+
+I have a [website!](https://bambus.lol) ^_^
+(i chose the .lol domain just cuz it was cheap 💀)
 
 ---
 
