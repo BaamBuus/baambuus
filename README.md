@@ -6,6 +6,11 @@ I'm learning web-development, more specifically:
 -JS.  🧑‍💻
 I also know a tiny bit of *Python🐍*
 
+I use **[Visual Studio Code ⌨️]**(https://code.visualstudio.com/)
+
+I made a tiny project, called **[Grado!]**(https://grado.lol)
+Grado is a simple CSS gradient maker.
+
 ---
 
 # I make videos on [Tiktok😟](https://tiktok.com/@bambus.png)
