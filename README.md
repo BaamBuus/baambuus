@@ -5,7 +5,7 @@ I'm learning web-development, more specifically:
 -CSS, 🧑‍💻
 -JS.  🧑‍💻
 I also know a tiny bit of *Python🐍*
-
+My poor stats: <img src="[https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark](https://github-readme-stats.vercel.app/api/top-langs?username=baambuus&show_icons=true&locale=en&layout=compact&theme=light)" alt="ovi" />
 I use [**Visual Studio Code ⌨️**](https://code.visualstudio.com/)
 
 I made a tiny project, called [**Grado!**](https://grado.lol)
